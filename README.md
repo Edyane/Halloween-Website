@@ -1,13 +1,23 @@
-# 🎃 Responsive Halloween Website
-## [Watch it on youtube](https://youtu.be/TBEOARNn2Gc)
-### 🎃 Responsive Halloween Website
+<div align="center">
 
-- Responsive Halloween Website Design Using HTML CSS & JavaScript
-- With a dark and elegant interface.
-- Contains animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+# Responsive Halloween Website 🎃
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+</div>
+
 
 ![preview img](/preview.png)
+---
+
+
+### :pencil: Descrição do Projeto
+<p align="justify">Projeto responsivo construído com: HTML, CSS e JavaScript. Desenvolvido com Mobile First e compatível com todos os tamanhos de dispositivos.</p>
+
+
+### :computer: Tutorial Bedimcode
+
+[Build & Deploy a Responsive Halloween Website Design Using HTML CSS & JavaScript 🖱️](https://www.youtube.com/watch?v=TBEOARNn2Gc)
+
+
+### 📍 Status
+
+🚧  Finalizado  🚧
